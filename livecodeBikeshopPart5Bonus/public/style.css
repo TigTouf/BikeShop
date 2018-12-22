@@ -1,0 +1,139 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+#card-header {
+  background-color: #343A40;
+  padding: 10px;
+  color: #FFFFFF;
+}
+
+#shop-header {
+  background-color: #343A40;
+  color: #FFFFFF;
+}
+
+#logo-header {
+  width: 50px;
+}
+
+#shop-background {
+  height: 150px;
+  background-image: url('bike-background.jpg');
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 30px;
+}
+
+#card-breadcrumb {
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+#card-libelle {
+  border-top: 1px solid #F2F2F2;
+  border-bottom: 1px solid #F2F2F2;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-weight: 700;
+}
+
+.card-product {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #F2F2F2;
+  background-color: #fcfcfc;
+}
+
+.card-product-checkout {
+
+  border-bottom: 1px solid #F2F2F2;
+  background-color: #fcfcfc;
+}
+
+
+#card-total {
+  border-bottom: 1px solid #F2F2F2;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-weight: 700;
+}
+
+#card-checkout {
+  padding-top: 7px;
+}
+
+.bike-picture {
+  width: 170px;
+}
+
+.bike-picture-checkout {
+  width: 100px;
+}
+
+.shop-price {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.bike-card {
+  margin-bottom: 15px;
+}
+
+#checkout-page {
+  margin-top: 100px;
+}
+
+#checkout-subPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #F6F5F5;
+  border: 1px solid black;
+  padding-bottom: 50px;
+  margin-bottom: 100px;
+}
+
+#title {
+  margin-top: 30px;
+  font-size: 45px;
+}
+
+#checkout-total {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#contmax {
+  width: 80%;
+}
+
+#checkout-body {
+  height: 100vh;
+  background-image: url('https://media.giphy.com/media/TlK63EPYTCOMhJal7u8/giphy.gif');
+  background-image:
+  background-size: cover;
+}
+
+#checkout-btn-shop {
+  padding: 5px 10px 5px 10px;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+#clean-btn {
+  background-color: white;
+  padding: 5px 10px 5px 10px;
+  border: 1px solid #53CBFE;
+  border-radius: 5px;
+  color: #53CBFE;
+}
